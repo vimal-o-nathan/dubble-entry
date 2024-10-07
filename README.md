@@ -1,1 +1,1 @@
-# Dubble-Entry Accountnt
+# Dubble Entree
