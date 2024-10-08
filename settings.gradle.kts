@@ -1,2 +1,2 @@
-rootProject.name = "dubble-entry-accountnt"
+rootProject.name = "dubble-entree"
 
